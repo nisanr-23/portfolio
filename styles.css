@@ -1,0 +1,50 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom right, #3498db, #1abc9c, #e74c3c);
+  color: #fff;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+header {
+  background: linear-gradient(to right, #3498db, #1abc9c);
+  padding: 20px 0;
+}
+
+header h1 {
+  margin: 0;
+}
+
+header p {
+  margin: 5px 0 0;
+}
+
+section {
+  padding: 40px 0;
+}
+
+h2 {
+  color: azure;
+}
+
+p {
+  line-height: 1.6;
+}
+
+.project-card {
+  background: linear-gradient(to right, #3498db, #1abc9c);
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 5px;
+}
+
+footer {
+  background: linear-gradient(to right, #3498db, #1abc9c);
+  padding: 10px 0;
+  text-align: center;
+}
